@@ -231,6 +231,11 @@ Now you can try the different list examples which were used with the 'parallel' 
 
 ## How to Contribute
 
+You can help us in different ways:
+
+1. Reporting issues.
+2. Contributing code and sending a pull request.
+
 In order to contribute the code base of this project, you must agree to the Developer Certificate of Origin (DCO) 1.1 for this project under GPLv2+:
 
     By making a contribution to this project, I certify that:
