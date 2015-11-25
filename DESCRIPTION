@@ -1,6 +1,6 @@
 Package: ddR
 Title: Distributed Data Structures in R
-Version: 0.1.1
+Version: 0.1.2
 Author: Edward Ma, Indrajit Roy, Michael Lawrence
 Maintainer: Edward Ma <ema@hpe.com>
 VignetteBuilder: knitr
@@ -15,6 +15,6 @@ LinkingTo: Rcpp
 Collate: 'RcppExports.R' 'ddR.R' 'dobject.R' 'ops.R' 'pdriver.R'
         'pobject.R' 'zzz.R'
 NeedsCompilation: yes
-Packaged: 2015-11-11 19:10:24 UTC; edward
+Packaged: 2015-11-24 21:53:48 UTC; edward
 Repository: CRAN
-Date/Publication: 2015-11-12 12:58:16
+Date/Publication: 2015-11-25 08:54:21
